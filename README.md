@@ -44,6 +44,8 @@ This **Blinkit Sales Dashboard** provides a 360° analysis of the company's:
 
 It allows management to quickly identify **top-performing outlets**, understand consumer trends, and optimize product mix.
 
+![Blinkit Dashboard](Blinkit%20Dashboard%20image.png)
+
 ---
 
 # 🎯 **Objectives**
