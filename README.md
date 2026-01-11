@@ -319,14 +319,8 @@ Blinkit-Sales-Dashboard/
 If you want help building similar dashboards or enhancing this one:
 
 **Samyak Anand**
-📩 *your-email*
-🔗 LinkedIn / GitHub
+📩 *samyak.g.anand@gmail.com *
+
 
 ---
 
-If you'd like, I can also prepare:
-
-✅ A LinkedIn post for this dashboard
-✅ A portfolio-ready case study
-✅ README with embedded images
-Just tell me!"# Blinkit-Sales-Inventory-Analytics-Dashboard-End-to-End-Power-BI-Project" 
